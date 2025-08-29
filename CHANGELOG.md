@@ -1,4 +1,4 @@
-# 📦 LISTA DAS ALTERAÇÕES DO SISTEMA CGM Comércio 4.3
+# 📦 Lista das Alterações do Sistema CGM Comércio 4.3
 🔹 Issue: número da tarefa no GitHub  
 🔧 Chamado: número do ticket interno
 
