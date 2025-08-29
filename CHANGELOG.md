@@ -1,10 +1,10 @@
-# 📦 CHANGELOG
+# 📦 LISTA DAS ALTERAÇÕES DO SISTEMA CGM Comércio 4.3
 🔹 Issue: número da tarefa no GitHub  
 🔧 Chamado: número do ticket interno
 
 ---
 
-## [v4.3.0.004] - 2025-08-29
+## [v4.3.0.004] - 29/08/2025
 
 ### ✨ Adicionado
 - 🔹#13 | 🔧 #163882 - Menu "Configurações" exclusivo ao usuário Administrador.
