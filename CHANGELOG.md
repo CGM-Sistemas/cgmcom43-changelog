@@ -9,7 +9,7 @@
 ### ✨ Adicionado
 - 🔹#49 | 🔧 #163689 - Cadastro dos feriados.
 - 🔹#22 | 🔧 #164044 - Tabela `UsuariosConfiguracoes` para receber parâmetros específicos do computador.
-- 🔹#24 | 🔧 #164044 - Estrutura de suporte na tabela `UsuariosConfiguracoes` para leitura de parâmetros por máquina.
+- 🔹#24 | 🔧 #164044 - - Estrutura de suporte na tabela `UsuariosConfiguracoes` para leitura de parâmetros por máquina.
 ### 🐞 Corrigido
 - Nenhuma correção nesta versão.
 ### 🔧 Alterado
