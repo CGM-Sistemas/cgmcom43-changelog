@@ -4,6 +4,24 @@
 
 ---
 
+## [v4.3.0.006] - 18-09-2025
+
+### ✨ Adicionado
+- 🔹#68 | 🔧 #164575 - Cadastro dos países.
+- 🔹#68 | 🔧 #164575 - Relatório dos países.
+- 🔹#76 | 🔧 #164575 - Adicionadas teclas de atalho aos botões principais do sistema para melhorar a navegação e acessibilidade.
+- 🔹#76 | 🔧 #164575 - Adicionados tooltips aos botões principais do sistema para melhorar a orientação do usuário.
+### 🐞 Corrigido
+- 🔹#61 | 🔧 #164496 - Implementado mecanismo de contingência com uso de arquivo local para garantir funcionamento em casos de falha no download via nuvem. A funcionalidade está disponível ao acessar CGMCOM43 pelo menu de relatórios em instalações novas.
+### 🔧 Alterado
+- 🔹#70 | 🔧 #164575 – Padronização dos títulos das janelas para melhorar a clareza e o reconhecimento do contexto em uso.
+- 🔹#70 | 🔧 #164575 – Agora é possível abrir múltiplas janelas de edição a partir da listagem dos cadastros, com títulos identificando a chave primária de cada registro.
+### 🛠️ Melhorias internas
+> Esta seção descreve ajustes técnicos e estruturais que não impactam diretamente o uso do sistema, mas contribuem para sua estabilidade, desempenho e manutenção futura.
+
+- 🔹#72 | 🔧 #164575 – Melhorias na geração automática de código (Source Code Generator), otimizando a criação de classes.
+---
+
 ## [v4.3.0.005] - 09-09-2025
 
 ### ✨ Adicionado
