@@ -9,8 +9,8 @@
 ### ✨ Adicionado
 - 🔹#68 | 🔧 #164575 - Cadastro dos países.
 - 🔹#68 | 🔧 #164575 - Relatório dos países.
-- 🔹#76 | 🔧 #164575 - Adicionadas teclas de atalho aos botões principais do sistema para melhorar a navegação e acessibilidade.
-- 🔹#76 | 🔧 #164575 - Adicionados tooltips aos botões principais do sistema para melhorar a orientação do usuário.
+- 🔹#76 | 🔧 #164575 - Teclas de atalho aos botões principais do sistema para melhorar a navegação e acessibilidade.
+- 🔹#76 | 🔧 #164575 - Tooltips aos botões principais do sistema para melhorar a orientação do usuário.
 ### 🐞 Corrigido
 - 🔹#61 | 🔧 #164496 - Implementado mecanismo de contingência com uso de arquivo local para garantir funcionamento em casos de falha no download via nuvem. A funcionalidade está disponível ao acessar CGMCOM43 pelo menu de relatórios em instalações novas.
 ### 🔧 Alterado
@@ -27,7 +27,7 @@
 ### ✨ Adicionado
 - 🔹#49 | 🔧 #163689 - Cadastro dos feriados.
 - 🔹#22 | 🔧 #164044 - Tabela `UsuariosConfiguracoes` para receber parâmetros específicos do computador.
-- 🔹#24 | 🔧 #164044 - - Estrutura de suporte na tabela `UsuariosConfiguracoes` para leitura de parâmetros por máquina.
+- 🔹#24 | 🔧 #164044 - Estrutura de suporte na tabela `UsuariosConfiguracoes` para leitura de parâmetros por máquina.
 ### 🐞 Corrigido
 - Nenhuma correção nesta versão.
 ### 🔧 Alterado
