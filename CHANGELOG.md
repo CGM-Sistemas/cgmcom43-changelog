@@ -4,6 +4,23 @@
 
 ---
 
+## [v4.3.0.008] - 10-12-2025
+
+### ✨ Novidades
+- 🔹#118 | 🔧 #166218 - Inclusão do cadastro para as unidades de medida.
+- 🔹#120 | 🔧 #166218 - Inclusão do cadastro para os agentes de viagens.
+
+### 🐞 Correções
+- 🔹#111 | 🔧 #166041 - Corrigido erro que impedia atualização automática dos menus novos.
+
+### 🔧 Alterações
+- Nenhuma alteração nesta versão.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.007] - 19-11-2025
 
 ### ✨ Novidades
