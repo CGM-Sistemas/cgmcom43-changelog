@@ -4,6 +4,22 @@
 
 ---
 
+## [v4.3.0.009] - 26-01-2026
+
+### ✨ Novidades
+- 🔹#106 | 🔧 #165700 - Criação de endpoint dentro de CGMCOM43.Api para a emissão das notas fiscais de serviços eletrônicas.
+
+### 🐞 Correções
+- Nenhuma correção nesta versão.
+
+### 🔧 Alterações
+- Nenhuma alteração nesta versão.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.008] - 10-12-2025
 
 ### ✨ Novidades
