@@ -4,6 +4,26 @@
 
 ---
 
+## [v4.3.0.010] - 24-02-2026
+
+### ✨ Novidades
+- 🔹#133 | 🔧 #167288 - Implementação das rotinas de cancelamento das NFS-e Nacional.
+- 🔹#148 | 🔧 #167288 - Inclusão do cadastro para as transportadoras.
+
+### 🐞 Correções
+- 🔹#136 | 🔧 #167352 - Correção no envio dos caracteres especiais no arquivo XML das NFS-e Nacional.
+- 🔹#136 | 🔧 #167352 - Correção no envio dos descontos no arquivo XML das NFS-e Nacional.
+- 🔹#136 | 🔧 #167352 - Correção no envio da descrição dos produtos no arquivo XML das NFS-e Nacional.
+- 🔹#136 | 🔧 #167352 - Ajuste no envio do DPS, passando a utilizar a série concatenada ao número da nota como identificação.
+
+### 🔧 Alterações
+- 🔹#146 | 🔧 #167288 - Exclusão da funcionalidade de atualização automática dos menus via download de informações da nuvem.
+
+### 🛠️ Melhorias internas
+- 🔹#131 | 🔧 #167288 - Aprimoramento que permite o envio do endereço da base de dados em cada solicitação realizada pelo CGMCOM43.Api, permitindo maior flexibilidade nas rotinas.
+
+---
+
 ## [v4.3.0.009] - 26-01-2026
 
 ### ✨ Novidades
