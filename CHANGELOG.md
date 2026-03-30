@@ -4,6 +4,27 @@
 
 ---
 
+## [v4.3.0.011] - 27-03-2026
+
+### ✨ Novidades
+- 🔹#157 | 🔧 #167748 - Implementação das rotinas para integração do Sistema com o Omnie.
+- 🔹#171 | 🔧 #167779 - Inclusão do cadastro das mensagens das notas fiscais de saída.
+
+### 🐞 Correções
+- 🔹#166 | 🔧 #167959 - Correção no envio do número do telefone no XML das NFS-e Nacional.
+- 🔹#166 | 🔧 #167959 - Correção na mensagem de erro do retorno da emissão das NFS-e Nacional para exibição das informações completas.
+- 🔹#173 | 🔧 #168006 - Correção no envio da descrição dos produtos nas NFS-e Nacional com múltiplos itens.
+- 🔹#175 | 🔧 #168042 - Correção na gravação das informações dos cadastros já migrados para tratamento adequado dos valores nulos.
+
+### 🔧 Alterações
+-🔹#149 | 🔧 #167779 - Implementação das validações das inscrições estaduais de todos os estados brasileiros.
+
+### 🛠️ Melhorias internas
+- 🔹#176 | 🔧 #168042 - Criação de componente para digitação do CNPJ/CPF.
+- 🔹#175 | 🔧 #168042 - Criação de rotina para ajuste dos valores nulos nos cadastros já convertidos.
+
+---
+
 ## [v4.3.0.010] - 24-02-2026
 
 ### ✨ Novidades
