@@ -4,6 +4,22 @@
 
 ---
 
+## [v4.3.0.012] - 03-06-2026
+
+### ✨ Novidades
+- 🔹#157 | 🔧 #168004 - Implementação das rotinas para integração do Sistema com o sistema Conta Azul.
+
+### 🐞 Correções
+- 🔹#166 | 🔧 #169622 - Correção na gravação do campo RNTRC.
+
+### 🔧 Alterações
+- Nenhuma alteração nesta versão.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.011] - 27-03-2026
 
 ### ✨ Novidades
