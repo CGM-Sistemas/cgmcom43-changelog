@@ -4,6 +4,24 @@
 
 ---
 
+## [v4.3.0.013] - 26-06-2026
+
+### ✨ Novidades
+- 🔹#219 | 🔧 #169492 - Implementação da criação automática da regra de Firewall para o serviço CGMCOM43.Api.
+- 🔹#213 | 🔧 #169351 - Implementação da geração automática de código nas telas de cadastro, mantendo o padrão utilizado no CGM Comércio 4.2.
+- 🔹#222 | 🔧 #169983 - Inclusão do cadastro de facções.
+
+### 🐞 Correções
+- Nenhuma correção nesta versão.
+
+### 🔧 Alterações
+- 🔹#217 | 🔧 #161620 - Alteração em todas as áreas do sistema para permitir o uso de CNPJ alfanumérico.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.012] - 03-06-2026
 
 ### ✨ Novidades
@@ -45,7 +63,7 @@
 
 ### ✨ Novidades
 - 🔹#133 | 🔧 #167288 - Implementação das rotinas de cancelamento das NFS-e Nacional.
-- 🔹#148 | 🔧 #167288 - Inclusão do cadastro para as transportadoras.
+- 🔹#148 | 🔧 #167288 - Inclusão do cadastro de transportadoras.
 
 ### 🐞 Correções
 - 🔹#136 | 🔧 #167352 - Correção no envio dos caracteres especiais no arquivo XML das NFS-e Nacional.
@@ -80,8 +98,8 @@
 ## [v4.3.0.008] - 10-12-2025
 
 ### ✨ Novidades
-- 🔹#118 | 🔧 #166218 - Inclusão do cadastro para as unidades de medida.
-- 🔹#120 | 🔧 #166218 - Inclusão do cadastro para os agentes de viagens.
+- 🔹#118 | 🔧 #166218 - Inclusão do cadastro de unidades de medida.
+- 🔹#120 | 🔧 #166218 - Inclusão do cadastro de agentes de viagens.
 
 ### 🐞 Correções
 - 🔹#111 | 🔧 #166041 - Corrigido erro que impedia atualização automática dos menus novos.
@@ -97,9 +115,9 @@
 ## [v4.3.0.007] - 19-11-2025
 
 ### ✨ Novidades
-- 🔹#87 | 🔧 #165052 - Inclusão do cadastro para os tipos de notas de débito.
-- 🔹#88 | 🔧 #165052 - Inclusão do cadastro para os tipos de notas de crédito.
-- 🔹#92 | 🔧 #165052 - Inclusão do cadastro das classificações tributárias do IBS e da CBS.
+- 🔹#87 | 🔧 #165052 - Inclusão do cadastro de tipos de notas de débito.
+- 🔹#88 | 🔧 #165052 - Inclusão do cadastro de tipos de notas de crédito.
+- 🔹#92 | 🔧 #165052 - Inclusão do cadastro de classificações tributárias do IBS e da CBS.
 - 🔹#94 | 🔧 #165052 - Implementada funcionalidade para importação da planilha com os dados das classificações tributárias do IBS/CBS.
 - 🔹#99 | 🔧 #165700 - Disponibilizado o projeto `CGMCOM43.Api` para instalação nos ambientes dos clientes.
 
@@ -141,7 +159,7 @@
 ## [v4.3.0.005] - 09-09-2025
 
 ### ✨ Novidades
-- 🔹#49 | 🔧 #163689 - Inclusão do cadastro para os feriados.
+- 🔹#49 | 🔧 #163689 - Inclusão do cadastro de feriados.
 - 🔹#22 | 🔧 #164044 - Inclusão da tabela `UsuariosConfiguracoes` para receber parâmetros específicos do computador.
 - 🔹#24 | 🔧 #164044 - Inclusão de estrutura de suporte na tabela `UsuariosConfiguracoes` para leitura de parâmetros por máquina.
 
