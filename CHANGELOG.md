@@ -4,6 +4,23 @@
 
 ---
 
+## [v4.3.0.014] - 30-07-2026
+
+### ✨ Novidades
+- Nenhuma novidade incluída nesta versão.
+
+### 🐞 Correções
+- 🔹#231 | 🔧 #170195 - Correção no processo de download das classificações tributárias do IBS/CBS.
+
+### 🔧 Alterações
+- 🔹#231 | 🔧 #170195 - Inclusão de novos campos no cadastro das classificações tributárias do IBS/CBS.
+- 🔹#168 | 🔧 #170859 - Adequação na emissão das NFS-e para conformidade com a versão 1.01 dos esquemas da Receita Federal.
+
+### 🛠️ Melhorias internas
+- 🔹#233 | 🔧 #170532 - Criação do versionamento para o leiaute das telas, que passam a ser salvos por usuário diretamente no banco de dados.
+
+---
+
 ## [v4.3.0.013] - 26-06-2026
 
 ### ✨ Novidades
