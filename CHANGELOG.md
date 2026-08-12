@@ -4,6 +4,25 @@
 
 ---
 
+## [v4.3.0.015] - 12-08-2026
+
+### ✨ Novidades
+- 🔹#240 | 🔧 #167977 - Implementação do tratamento da numeração temporária para as notas de serviços do Ambiente Nacional.
+- 🔹#242 | 🔧 #167977 - Implementação da impressão do DANFSE do Ambiente Nacional com leiaute próprio.
+- 🔹#250 | 🔧 #171073 - Inclusão do cadastro dos canais de distribuição.
+
+### 🐞 Correções
+- 🔹#243 | 🔧 #170526 - Correção na emissão de notas fiscais de serviços do Ambiente Nacional para pessoas físicas.
+- 🔹#247 | 🔧 #170986 - Correção no cálculo dos impostos da Lei da Transparência nas notas fiscais de serviços do Ambiente Nacional.
+
+### 🔧 Alterações
+- Nenhuma alteração nesta versão.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.014] - 30-07-2026
 
 ### ✨ Novidades
