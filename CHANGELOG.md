@@ -4,6 +4,23 @@
 
 ---
 
+## [v4.3.0.016] - 17-09-2026
+
+### ✨ Novidades
+- 🔹#261 | 🔧 #171781 - Inclusão do cadastro de cores.
+
+### 🐞 Correções
+- 🔹#261 | 🔧 #171781 - Correção no cálculo dos valores de deduções e reduções nas notas fiscais de serviços do Ambiente Nacional.
+
+### 🔧 Alterações
+- 🔹#255 | 🔧 #171194 - Alteração na abertura dos cadastros quando acionados a partir das consultas correspondentes no CGMCOM42, com posicionamento automático no registro selecionado.
+- 🔹#258 | 🔧 #170136 - Alteração no diretório de armazenamento dos logs de emissão das notas fiscais de serviços do Ambiente Nacional.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.015] - 12-08-2026
 
 ### ✨ Novidades
