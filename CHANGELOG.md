@@ -4,6 +4,23 @@
 
 ---
 
+## [v4.3.0.017] - 27-10-2026
+
+### ✨ Novidades
+- 🔹#267 | 🔧 #166381 - Implementação da consulta da DUIMP diretamente no sistema SISCOMEX.
+
+### 🐞 Correções
+- 🔹#276 | 🔧 #172365 - Correção no tratamento do parâmetro que permite o cadastro de transportadoras com o mesmo CNPJ.
+- 🔹#276 | 🔧 #172365 - Correção da largura mínima do campo "Placa" na tela de cadastro de transportadoras.
+
+### 🔧 Alterações
+- 🔹#273 | 🔧 #171176 - Criação de parâmetro para indicar o nome da impressora utilizada na impressão das notas promissórias.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.016] - 17-09-2026
 
 ### ✨ Novidades
