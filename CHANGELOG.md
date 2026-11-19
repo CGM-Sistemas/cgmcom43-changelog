@@ -4,6 +4,28 @@
 
 ---
 
+## [v4.3.0.018] - 19-11-2026
+
+### ✨ Novidades
+- 🔹#278 | 🔧 #172556 - Implementação da emissão de NFS-e com certificado digital A3.
+
+### 🐞 Correções
+- 🔹#280 | 🔧 #172589 - Correção no envio do CEP nas NFS-e.
+- 🔹#282 | 🔧 #171235 - Correção no tamanho da descrição dos produtos durante o download dos itens da DUIMP.
+- 🔹#284 | 🔧 #172593 - Correção na emissão de NFS-e com retenção de ISS.
+- 🔹#289 | 🔧 #172601 - Correção de campos na impressão do DANFSe no modelo interno.
+- 🔹#292 | 🔧 #172509 - Correção do fechamento inesperado da aplicação em determinadas versões do Windows.
+
+### 🔧 Alterações
+- 🔹#287 | 🔧 #172610 - Implementação de rotinas para considerar o parâmetro que permite identificar os arquivos XML das NFS-e pelo nome do cliente.
+- 🔹#290 | 🔧 #172569 - Inclusão do envio do endereço da obra nas NFS-e.
+- 🔹#297 | 🔧 #172740 - Inclusão de variáveis constantes nos campos do tipo "Data", permitindo a sugestão automática de valores ao abrir a tela de filtros.
+
+### 🛠️ Melhorias internas
+- Nenhuma melhoria interna nesta versão.
+
+---
+
 ## [v4.3.0.017] - 27-10-2026
 
 ### ✨ Novidades
